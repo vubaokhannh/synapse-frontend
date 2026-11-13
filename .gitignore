@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local tracking files (Do not commit)
+PROJECT_STATUS.md
+*.local.md
+
